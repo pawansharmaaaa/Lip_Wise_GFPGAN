@@ -1,5 +1,8 @@
 # **LIP_WISE_GFPGAN**: *Wise enhancements for wav2lip.*
 
+### :memo: <font color='red'>**Note:**</font>
+#### <font color='green'>This project is actively under development, and significant improvements are expected in the near future. As I am still learning the intricacies of GitHub, I am currently committing changes on a gradual basis. To ensure the latest updates are readily accessible, I am maintaining the "clean" branch as the central repository of progress.</font>
+
 **Introduction**
 
 LipWise is an enhanced version of the Wav2Lip model, a deep learning model for lip-synced video generation. It operates by processing an input audio clip alongside a reference video featuring a speaking individual. The model then synthesizes a new video where the lip movements of the person in the reference video align seamlessly with the provided audio. LipWise offers several significant improvements over the original Wav2Lip model, including:
