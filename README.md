@@ -1,7 +1,7 @@
 # **LIP_WISE_GFPGAN**: *Wise enhancements for wav2lip.*
 
 ### :memo: <font color='red'>**Note:**</font>
-#### <font color='green'>This project is actively under development, and significant improvements are expected in the near future. As I am still learning the intricacies of GitHub, I am currently committing changes on a gradual basis. To ensure the latest updates are readily accessible, I am maintaining the "clean" branch as the central repository of progress.</font>
+#### <font color='green'>This Project has moved [here](https://github.com/pawansharmaaaa/Lip_Wise)</font>
 
 **Introduction**
 
